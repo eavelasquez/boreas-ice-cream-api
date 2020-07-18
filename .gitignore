@@ -1,0 +1,18 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directory
+node_modules
+
+# Users Environment Variables
+.env.development
+.env.production
+
+lib/
+data/
+
+# IDES
+.idea
+.vscode
